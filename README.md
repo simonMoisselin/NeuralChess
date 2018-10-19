@@ -4,7 +4,8 @@ The goal of this project is to take a picture of a chessboard and identify the c
 ![alt text](exemple.png)
 
 # Results
+Open the notebook model_testing for all the results.
 ![alt text](result.png)
-Open the notebook model_testing for the results.
+
 
 
